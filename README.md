@@ -1,4 +1,6 @@
-# Bcoin
+# JZCash
+
+![https://i.imgur.com/cPFrNx1.png](https://i.imgur.com/cPFrNx1.png)
 
 __NOTE__: The latest release of bcoin contains a non-backward compatible change
 to the rest API. Please read the [changelog]'s "migrating" section for more
